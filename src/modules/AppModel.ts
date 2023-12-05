@@ -46,7 +46,7 @@ type StatDate = {
 };
 
 class AppModel {
-  private domain = 'https://rslang-words.herokuapp.com';
+  private domain = 'https://rslang-xulc.onrender.com';
 
   // === Статистика === //
 
