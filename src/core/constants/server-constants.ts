@@ -1,4 +1,4 @@
-export const domain = 'https://rslang-words.herokuapp.com';
+export const domain = 'https://rslang-xulc.onrender.com';
 
 export interface IBearer {
   bearer: string;
